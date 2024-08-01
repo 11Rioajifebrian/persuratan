@@ -5,17 +5,16 @@
 ![LoginUser Image](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/LoginUser.png?raw=true)
 
 <p><b>View User Kepala Surat</b></p>
-![View User](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_KepalaSurat.png?raw=true)
+![View User Kepala Surat](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_KepalaSurat.png?raw=true)
 
 <p><b>View User Nama Tanda Tangan</b></p>
-![View User](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_NamaTandaTangan.png?raw=true)
+![View User Nama Tanda Tangan](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_NamaTandaTangan.png?raw=true)
 
 <p><b>View User Surat Keluar</b></p>
-![View User](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_SuratKeluar.png?raw=true)
+![View User Surat Keluar](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_SuratKeluar.png?raw=true)
 
 <p><b>View User Surat Masuk</b></p>
-![View User](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_SuratMasuk.png?raw=true)
-
+![View User Surat Masuk](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/ViewUser_SuratMasuk.png?raw=true)
 
 <p><b>View Admin Users</b></p>
 ![View Admin Users](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_Users.png?raw=true)
@@ -41,12 +40,5 @@
 <p><b>View Admin Create Surat Keluar</b></p>
 ![View Admin Create Surat Keluar](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_CreateSuratKeluar.png?raw=true)
 
-
-
-
-
-
-![View Admin Create Surat Masuk](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_CreateSuratMasuk.png?raw=true)
 <p><b>View Admin Create Surat Masuk</b></p>
-
-
+![View Admin Create Surat Masuk](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/Admin/ViewAdmin_CreateSuratMasuk.png?raw=true)
