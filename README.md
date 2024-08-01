@@ -1,5 +1,5 @@
-<p><b>Tampilan Welcome</b></p>
 ![Welcome Image](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/welcome.png?raw=true)
+<p><b>Tampilan Welcome</b></p>
 
 <p><b>Login User</b></p>
 ![LoginUser Image](https://github.com/11Rioajifebrian/persuratan/blob/main/PBKK/User/LoginUser.png?raw=true)
